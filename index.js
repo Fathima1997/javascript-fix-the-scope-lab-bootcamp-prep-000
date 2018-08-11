@@ -20,6 +20,10 @@ function add2(n) {
   const two = 2
 }
 
+function add2(n) {
+  
+}
+
 var funkyFunction = function() {
   return function() {
     return "FUNKY!"
